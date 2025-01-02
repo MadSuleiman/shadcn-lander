@@ -1,0 +1,27 @@
+{
+    "title": "Hear From Our Customers",
+    "description": "See how our platform has transformed inventory management for businesses like yours.",
+    "testimonials": [
+        {
+            "name": "Alex Green",
+            "role": "Operations Manager",
+            "company": "SafeGear Solutions",
+            "content": "This system has made tracking and maintaining compliance so much easier. It's saved us hours of manual work every week.",
+            "avatar": "/placeholder.svg?height=40&width=40"
+        },
+        {
+            "name": "Taylor Kim",
+            "role": "Facility Manager",
+            "company": "TechOps Inc.",
+            "content": "With its detailed tracking and analytics, we've identified inefficiencies we didn’t even know existed.",
+            "avatar": "/placeholder.svg?height=40&width=40"
+        },
+        {
+            "name": "Jordan Smith",
+            "role": "Safety Coordinator",
+            "company": "BuildSafe",
+            "content": "The mobile QR feature is a game-changer for our team in the field. Inventory updates are seamless and instant.",
+            "avatar": "/placeholder.svg?height=40&width=40"
+        }
+    ]
+}

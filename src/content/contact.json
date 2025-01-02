@@ -1,0 +1,21 @@
+{
+    "title": "Connect with Us",
+    "description": "Got questions about inventory management? Our team is ready to assist you.",
+    "fields": [
+        {
+            "name": "name",
+            "label": "Full Name",
+            "type": "text"
+        },
+        {
+            "name": "email",
+            "label": "Business Email",
+            "type": "email"
+        },
+        {
+            "name": "message",
+            "label": "Your Message",
+            "type": "textarea"
+        }
+    ]
+}

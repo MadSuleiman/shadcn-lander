@@ -1,0 +1,26 @@
+{
+    "title": "Essential Features for Efficient Inventory Management",
+    "description": "Explore the tools designed to simplify tracking, improve compliance, and optimize operations.",
+    "features": [
+        {
+            "name": "Complete Asset History",
+            "description": "Monitor the lifecycle of every asset, from acquisition to retirement, with detailed logs.",
+            "icon": "CheckCircle"
+        },
+        {
+            "name": "Automated Compliance Scheduling",
+            "description": "Schedule inspections and maintenance to meet regulatory requirements effortlessly.",
+            "icon": "Calendar"
+        },
+        {
+            "name": "QR Code and Mobile Access",
+            "description": "Quickly scan, update, and check-in/out assets using our mobile app with QR integration.",
+            "icon": "QrCode"
+        },
+        {
+            "name": "Actionable Analytics",
+            "description": "Use dynamic dashboards to uncover inefficiencies, reduce costs, and improve workflows.",
+            "icon": "BarChart2"
+        }
+    ]
+}

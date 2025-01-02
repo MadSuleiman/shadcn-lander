@@ -1,0 +1,28 @@
+{
+    "title": "Our Product in Action",
+    "description": "See how SoftPro transforms workflows across various industries",
+    "images": [
+      {
+        "src": "/placeholder.svg?height=600&width=800",
+        "alt": "SoftPro dashboard example",
+        "caption": "Intuitive dashboard for easy management"
+      },
+      {
+        "src": "/placeholder.svg?height=600&width=800",
+        "alt": "SoftPro collaboration feature",
+        "caption": "Seamless team collaboration"
+      },
+      {
+        "src": "/placeholder.svg?height=600&width=800",
+        "alt": "SoftPro mobile app",
+        "caption": "Access your work on the go"
+      },
+      {
+        "src": "/placeholder.svg?height=600&width=800",
+        "alt": "SoftPro analytics",
+        "caption": "Powerful analytics and reporting"
+      }
+    ]
+  }
+  
+  

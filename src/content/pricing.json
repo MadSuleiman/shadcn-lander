@@ -1,0 +1,21 @@
+{
+    "title": "Transparent, Scalable Pricing",
+    "description": "Select the plan that best suits your organization's needs and scale as you grow.",
+    "plans": [
+        {
+            "name": "Basic",
+            "price": "$9/month",
+            "features": ["50 Assets", "Basic Reports", "Email Support"]
+        },
+        {
+            "name": "Pro",
+            "price": "$49/month",
+            "features": ["Unlimited Assets", "Advanced Analytics", "Priority Support", "Custom Reports"]
+        },
+        {
+            "name": "Enterprise",
+            "price": "Custom Pricing",
+            "features": ["Dedicated Account Manager", "Custom Integrations", "On-site Training", "SLA"]
+        }
+    ]
+}
