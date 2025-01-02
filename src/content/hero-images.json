@@ -1,15 +1,15 @@
 {
     "images": [
       {
-        "src": "/placeholder.svg?height=1080&width=1920",
+        "src": "/images/hero/hero1.png",
         "alt": "Hero image 1"
       },
       {
-        "src": "/placeholder.svg?height=1080&width=1920",
+        "src": "/images/hero/hero2.png",
         "alt": "Hero image 2"
       },
       {
-        "src": "/placeholder.svg?height=1080&width=1920",
+        "src": "/images/hero/hero3.png",
         "alt": "Hero image 3"
       }
     ]

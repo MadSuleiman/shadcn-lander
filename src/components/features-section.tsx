@@ -12,7 +12,7 @@ const iconMap = {
 
 export default function FeaturesSection() {
   return (
-    <section id='features' className='bg-gradient-to-b from-muted to-background py-20'>
+    <section id='features' className='py-20'>
       <div className='container mx-auto px-4'>
         <motion.div
           initial={{ opacity: 0, y: 20 }}

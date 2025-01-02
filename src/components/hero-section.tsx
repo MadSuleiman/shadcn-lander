@@ -41,6 +41,7 @@ export default function HeroSection() {
             objectFit='cover'
             quality={100}
           />
+          <div className='absolute inset-0 bg-gradient-to-b from-transparent to-background' />
         </motion.div>
       </AnimatePresence>
       <div className='absolute inset-0 bg-black bg-opacity-50' />
