@@ -4,11 +4,9 @@
  */
 import './src/env.js';
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  eslint: {
-    ignoreDuringBuilds: true
-  },
+import type { NextConfig } from 'next';
+
+const nextConfig: NextConfig = {
   sassOptions: {
     silenceDeprecations: ['legacy-js-api']
   }

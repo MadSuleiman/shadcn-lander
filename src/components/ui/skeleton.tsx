@@ -1,5 +1,3 @@
-/* eslint-disable unicorn/prevent-abbreviations */
-
 import React from 'react';
 
 import { cn } from '@/lib/utils';
